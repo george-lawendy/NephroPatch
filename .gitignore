@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local/raw data
+data/*.csv
+
+# Generated model binaries
+models/*.joblib
+models/*.pkl
+
+# IDE settings
+.vscode/
+.idea/
+anaconda_projects/
